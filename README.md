@@ -1,0 +1,1 @@
+EcoLista es una aplicación web cuyo objetivo es ayudar a las personas a llevar una lista de compras más consciente con el medio ambiente. Permite crear listas de productos eco-amigables, sugerir reemplazos sostenibles y compartir listas con otros usuarios.
